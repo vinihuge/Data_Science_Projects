@@ -11,7 +11,6 @@
 - Houses price and number of bedrooms are positive corelated.
         # From how many rooms the price increases? 
         # What is the price increase for each room added?
-- Houses price and living square footage size are positive corelated.
 - Houses price are different depending on the localization.
 - The last months of the year are the best for houses sale.
 - Newest houses are more expensive.  
